@@ -1,0 +1,1 @@
+Just my own autoclicker (english version will be here soon)
